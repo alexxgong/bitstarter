@@ -34,8 +34,8 @@
       </style>
     </head>
 <body>
-  <div class="div">
-    <container1 class="row navigation">
+  <div class="container">
+    <div class="row navigation">
       <div class="span2 logo">
 	logo
       </div>
